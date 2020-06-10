@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Scenario -CBU_PROFIT_UploadForecast_BusinessPlan]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41747" started-at="2020-06-10T05:48:35Z" finished-at="2020-06-10T05:49:17Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="41747" started-at="2020-06-10T05:48:35Z" finished-at="2020-06-10T05:49:17Z">
+      <class name="cbu_Profit_DriverScript.Driver_Script">
+        <test-method status="PASS" signature="mcbuApplication(java.lang.String)[pri:0, instance:cbu_Profit_DriverScript.Driver_Script@239963d8]" name="mcbuApplication" duration-ms="41708" started-at="2020-06-10T11:18:36Z" finished-at="2020-06-10T11:19:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Scenario -CBU_PROFIT_UploadForecast_BusinessPlan]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mcbuApplication -->
+      </class> <!-- cbu_Profit_DriverScript.Driver_Script -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
